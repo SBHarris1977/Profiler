@@ -7,3 +7,4 @@ Inquirer - was used to allow for the creation of the command line application by
 
 Puppeteer - makes it easy to generate a pdf from the page content
 
+NOTE: Had several issues trying to get this to work. Turning in assignment, but will resolve later. Did not commit broken code.
