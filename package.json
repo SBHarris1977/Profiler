@@ -17,8 +17,11 @@
   },
   "homepage": "https://github.com/SBHarris1977/Profiler#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "handlebars": "^4.5.3",
-    "inquirer": "^7.0.0",
-    "puppeteer": "^2.0.0"
+    "html-pdf": "^2.2.0",
+    "inquirer": "^7.0.1",
+    "puppeteer": "^2.0.0",
+    "util": "^0.12.1"
   }
 }
